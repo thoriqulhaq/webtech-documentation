@@ -107,7 +107,9 @@ body{
   bottom: 100%;
   left: 25px;
   z-index: 1;
-  max-width: 90px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
   opacity: 1;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
 }
